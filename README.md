@@ -10,8 +10,8 @@ docker build -t mysql:local .
 
 Modyfy docker-compose.yml, db.volumns: 
 
-/Users/tung1404/Documents/docker/movacal/data:/var/lib/mysql:rw
-- /Users/tung1404/Documents/docker/movacal/data : change to folder's path where store DB file
+/Users/tung1404/Documents/docker/docker-mysql-phpmyadmin/data:/var/lib/mysql:rw
+- /Users/tung1404/Documents/docker/docker-mysql-phpmyadmin/data : change to folder's path where store DB file
 
 Run on normal: docker-compose up
 

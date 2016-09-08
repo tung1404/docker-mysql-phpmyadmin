@@ -1,6 +1,16 @@
 # docker-mysql-phpmyadmin
 docker-mysql-phpmyadmin with local volumn
 
+Links:
+
+localdb-run.sh
+
+https://github.com/docker-library/mysql/issues/99#issuecomment-145665645
+
+Dockerfile
+
+https://github.com/docker-library/mysql/issues/99#issuecomment-152655145
+
 git clone https://github.com/tung1404/docker-mysql-phpmyadmin.git
 
 cd docker-mysql-phpmyadmin

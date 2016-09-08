@@ -1,7 +1,7 @@
 db:
   image: mysql:local
   volumes:
-    - /Users/tung1404/Documents/docker/movacal/data:/var/lib/mysql:rw
+    - /Users/tung1404/Documents/docker/docker-mysql-phpmyadmin/data:/var/lib/mysql:rw
   ports:
     - "13306:3306"
 

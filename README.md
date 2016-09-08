@@ -1,7 +1,8 @@
 # docker-mysql-phpmyadmin
 docker-mysql-phpmyadmin with local volumn
 
-git clone https://github.com/tung1404/docker-mysql-phpmyadmin.git 
+git clone https://github.com/tung1404/docker-mysql-phpmyadmin.git
+
 cd docker-mysql-phpmyadmin
 
 Build image from Dockerfile: 

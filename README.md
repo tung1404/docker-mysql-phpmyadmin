@@ -1,8 +1,6 @@
 # docker-mysql-phpmyadmin
 docker-mysql-phpmyadmin with local volumn
 
-them
-
 Links:
 
 localdb-run.sh
